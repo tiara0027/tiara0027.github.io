@@ -1,2 +1,2 @@
 # tiara0027.github.io
-my gitbhub pages rep hfd
+my gitbhub pages rep
