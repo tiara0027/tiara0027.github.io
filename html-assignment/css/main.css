@@ -22,3 +22,7 @@ ul{
 ul li:nth-child(odd){
     background-color: forestgreen;
 }
+
+a{
+    text-decoration: none;
+}
