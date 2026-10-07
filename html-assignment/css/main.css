@@ -28,3 +28,7 @@ a{
     background-color: darkcyan;
     border: 1px saddlebrown;
 }
+
+a:hover, a:focus{
+    background-color: chocolate;
+}
