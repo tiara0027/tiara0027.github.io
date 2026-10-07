@@ -18,3 +18,7 @@ header, footer{
 ul{
     list-style-type:square ;
 }
+
+ul li:nth-child(odd){
+    background-color: forestgreen;
+}
