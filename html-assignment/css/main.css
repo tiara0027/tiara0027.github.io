@@ -26,9 +26,9 @@ ul li:nth-child(odd){
 a{
     text-decoration: none;
     background-color: darkcyan;
-    border: 1px saddlebrown;
+    border: 1px solid saddlebrown;
 }
 
 a:hover, a:focus{
-    background-color: chocolate;
+    background-color: aqua;
 }
