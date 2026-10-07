@@ -3,6 +3,6 @@ body{
     font-size: 18px;
 }
 
-header h1, footer p{
-    color: blueviolet;
+header, footer{
+    background-color: blueviolet;
 }
